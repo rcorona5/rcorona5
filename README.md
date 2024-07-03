@@ -4,7 +4,7 @@
 👩🏽 Pronouns: she/her\
 👩‍🎓 ASU Undergrad student, Technical Communication major\
 🌱 Currently learning HTML & CSS\
-💖 Rock climber, gamer, makeup enthusiast
+💖 Rock climber, gamer, metalhead
 
 ## Find Me On...
  - [LinkedIn](www.linkedin.com/in/ecommercerachel)
