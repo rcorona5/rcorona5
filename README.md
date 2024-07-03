@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hello! 
+
+## About Me
+👩🏽 Pronouns: she/her\
+👩‍🎓 ASU Undergrad student, Technical Communication major\
+🌱 Currently learning HTML & CSS\
+💖 Rock climber, gamer, makeup enthusiast
+
+## Find Me On...
+ - [LinkedIn](www.linkedin.com/in/ecommercerachel)
+ - [Slack](https://asu.enterprise.slack.com/team/WFHTA3FHB)
+
+## Current Stats
+<img src="https://myreadme.vercel.app/api/embed/rcorona5?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!--
 **rcorona5/rcorona5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
