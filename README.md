@@ -7,7 +7,7 @@
 💖 Rock climber, gamer, metalhead
 
 ## Find Me On...
- - [LinkedIn](www.linkedin.com/in/ecommercerachel)
+ - [LinkedIn](http://www.linkedin.com/in/ecommercerachel)
  - [Slack](https://asu.enterprise.slack.com/team/WFHTA3FHB)
 
 
